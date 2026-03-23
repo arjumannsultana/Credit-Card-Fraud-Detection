@@ -5,7 +5,7 @@ transactions in real time. Built with XGBoost, trained on 100,000 synthetic
 transactions, and deployed with Streamlit.
 
 ### Live Demo
-🔗 [FraudDetect on Streamlit]() ← add your link after deploying
+🔗 [FraudDetect on Streamlit](https://credit-card-fraud-detection-ces3hjzcqwevx5hrwo77pt.streamlit.app/)
 
 ### Overview
 Credit card fraud costs billions globally every year. This project builds 
