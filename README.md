@@ -41,5 +41,3 @@ Python · XGBoost · Scikit-learn · SMOTE · Streamlit · Plotly · Pandas
 - No single feature catches everything — ML combines weak signals into 
   strong predictions
 
-### Author
-Built by [Arjuman Sultana](https://github.com/arjumannsultana)
